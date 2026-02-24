@@ -1,2 +1,2 @@
 # delta-mode
-This is my first repo for practice.
+This is my first repo for practice session.
